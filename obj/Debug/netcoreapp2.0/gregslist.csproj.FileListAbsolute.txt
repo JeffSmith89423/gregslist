@@ -1,0 +1,3 @@
+/Users/danielocconnell/source/codeworks/gregslist/obj/Debug/netcoreapp2.0/gregslist.csproj.CoreCompileInputs.cache
+/Users/danielocconnell/source/codeworks/gregslist/obj/Debug/netcoreapp2.0/gregslist.AssemblyInfoInputs.cache
+/Users/danielocconnell/source/codeworks/gregslist/obj/Debug/netcoreapp2.0/gregslist.AssemblyInfo.cs
